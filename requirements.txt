@@ -1,0 +1,4 @@
+jax
+jaxlib
+chex
+dm-haiku
